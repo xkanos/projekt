@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex clanok"] 1697109963 "clanok.aux" "clanok.bbl" "clanok" 1697109964 0
+["bibtex clanok"] 1697109963 "clanok.aux" "clanok.bbl" "clanok" 1697110179 0
   "./literatura.bib" 1697098210 2290 3d033ba771c90e00fdb1e25ac52deb3d ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/alpha.bst" 1292289607 23907 a5f93555796fb564b924339521f10a7c ""
-  "clanok.aux" 1697109963 777 fe6a7f52ad4c3014eda11933da5607c8 "pdflatex"
+  "clanok.aux" 1697110179 777 fe6a7f52ad4c3014eda11933da5607c8 "pdflatex"
   (generated)
   "clanok.bbl"
   "clanok.blg"
   (rewritten before read)
-["pdflatex"] 1697109963 "clanok.tex" "clanok.pdf" "clanok" 1697109964 0
+["pdflatex"] 1697110179 "clanok.tex" "clanok.pdf" "clanok" 1697110179 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1136768653 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -97,10 +97,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695303211 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695303156 7883456 01cf8e185cd4c03842e4fdcc55f2291d ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "clanok.aux" 1697109963 777 fe6a7f52ad4c3014eda11933da5607c8 "pdflatex"
+  "clanok.aux" 1697110179 777 fe6a7f52ad4c3014eda11933da5607c8 "pdflatex"
   "clanok.bbl" 1697109963 49 0eba253fc001332e731e8aba3f23127b "bibtex clanok"
-  "clanok.out" 1697109963 86 a627771dfcd3938a2d7ca76851c49e86 "pdflatex"
-  "clanok.tex" 1697109709 2090 0d2620f35b7985b771bf59cb3ed2d029 ""
+  "clanok.out" 1697110179 86 a627771dfcd3938a2d7ca76851c49e86 "pdflatex"
+  "clanok.tex" 1697110176 2107 1e74d809f30c5e13a29c642494855e0b ""
   (generated)
   "clanok.aux"
   "clanok.log"
