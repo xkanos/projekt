@@ -1,7 +1,7 @@
 % Metódy inžinierskej práce
 % !TEX TS-program = pdflatexmk
 
- \documentclass[10pt,twocolumn,twoside,slovak,a4paper]{article}
+\documentclass[10pt,english,a4paper]{article}
 
 \usepackage[english]{babel}
 %\usepackage[T1]{fontenc}
@@ -12,6 +12,7 @@
 \usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
 \usepackage {lipsum}
 \usepackage{cite}
+\usepackage{subfig}
 %\usepackage{times}
 
 \pagestyle{headings}
@@ -46,36 +47,37 @@ application of blockchain in different sectors.
 
 \section{Sekcia 1}
  \lipsum[1-3]
-  \begin{figure*}[ht]
-  \centering
-   \includegraphics[]{Diagram_1.pdf}
-  \centering
-  \caption{Diagram}
- \end{figure*}
- \lipsum[1-2]
- 
- \lipsum[1-3]
   \begin{figure}
   \centering
-  \includegraphics[scale=0.5]{Diagram 2023-10-19 12-37-46.png}
+   \includegraphics[scale=0.8]{Diagram_1.pdf}
   \centering
   \caption{Diagram}
  \end{figure}
+ \lipsum[1-2]
+ 
+ \begin{figure}%
+    \centering
+    \subfloat[\centering label 1]{{\includegraphics[width=5cm]{Diagram_1.pdf} }}%
+    \qquad
+    \subfloat[\centering label 2]{{\includegraphics[width=5cm]{Diagram_1.pdf} }}%
+    \caption{2 Figures side by side}%
+    \label{fig:example}%
+\end{figure}
+ 
+ \lipsum[1-3]
+
+ 
+ \section{Sekcia 2}
+ \lipsum[1-4]
+ \begin{figure}
+ \centering
+ \includegraphics[scale=0.5]{STU-FIIT-ancv.png}
+ \centering
+ \caption{Diagram 3}
+ \end{figure}
+
  
  
-
- 
- 
- 
- 
-
-
-
-
-
-
-
-
 % týmto sa generuje zoznam literatúry z obsahu súboru literatura.bib podľa toho, na čo sa v článku odkazujete
 \bibliography{literatura}
 \bibliographystyle{alpha} % prípadne alpha, abbrv alebo hociktorý iný
