@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  19 OCT 2023 13:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  19 OCT 2023 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -286,43 +286,51 @@ Package caption Info: hyperref package is loaded.
 \sf@top=\skip54
 \sf@bottom=\skip55
 )
+(/usr/local/texlive/2023/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen157
+\WF@size=\dimen158
+\c@WF@wrappedlines=\count285
+\WF@box=\box52
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
 (./clanok.aux)
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen157
-\scratchbox=\box52
-\nofMPsegments=\count286
-\nofMParguments=\count287
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen158
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count286
+\scratchdimen=\dimen159
+\scratchbox=\box53
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen160
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks21
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -332,7 +340,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 33.
 
 (./clanok.out) (./clanok.out)
 \@outlinefile=\write3
@@ -340,23 +348,24 @@ Package hyperref Info: Link coloring OFF on input line 32.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 35.
+(Font)              <17.28> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 35.
+(Font)              <12> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
+(Font)              <8> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
+(Font)              <6> on input line 36.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-35.
+36.
 
 (/usr/local/texlive/2023/texmf-dist/tex/cslatex/base/il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <5> on input line 36.
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
@@ -364,35 +373,35 @@ al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 <Diagram_1.pdf, id=27, 431.6125pt x 230.8625pt>
 File: Diagram_1.pdf Graphic file (type pdf)
 <use Diagram_1.pdf>
-Package pdftex.def Info: Diagram_1.pdf  used on input line 52.
+Package pdftex.def Info: Diagram_1.pdf  used on input line 53.
 (pdftex.def)             Requested size: 345.29045pt x 184.69023pt.
 File: Diagram_1.pdf Graphic file (type pdf)
 <use Diagram_1.pdf>
-Package pdftex.def Info: Diagram_1.pdf  used on input line 60.
+Package pdftex.def Info: Diagram_1.pdf  used on input line 61.
 (pdftex.def)             Requested size: 142.26378pt x 76.09326pt.
 File: Diagram_1.pdf Graphic file (type pdf)
 <use Diagram_1.pdf>
-Package pdftex.def Info: Diagram_1.pdf  used on input line 62.
+Package pdftex.def Info: Diagram_1.pdf  used on input line 63.
 (pdftex.def)             Requested size: 142.26378pt x 76.09326pt.
  [2 <./Diagram_1.pdf>] [3]
 <STU-FIIT-ancv.png, id=54, 358.33875pt x 206.7725pt>
 File: STU-FIIT-ancv.png Graphic file (type png)
 <use STU-FIIT-ancv.png>
 Package pdftex.def Info: STU-FIIT-ancv.png  used on input line 74.
-(pdftex.def)             Requested size: 179.16893pt x 103.38599pt.
- (./clanok.bbl
+(pdftex.def)             Requested size: 165.59853pt x 95.55505pt.
+ [4 <./STU-FIIT-ancv.png>] (./clanok.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [4 <./STU-FIIT-ancv.png>] (./clanok.aux)
+) [5] (./clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: 7A8C69E4303B3355A27A649691F8DFBA;172.
  ) 
 Here is how much of TeX's memory you used:
- 11548 strings out of 476025
- 193707 string characters out of 5790017
+ 11621 strings out of 476025
+ 194970 string characters out of 5790017
  1862388 words of memory out of 5000000
- 31839 multiletter control sequences out of 15000+600000
+ 31907 multiletter control sequences out of 15000+600000
  522671 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,79p,252b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -406,10 +415,10 @@ fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/cssl10.pfb></usr/l
 ocal/texlive/2023/texmf-dist/fonts/type1/public/cs/cstt9.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/
 2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on clanok.pdf (4 pages, 90829 bytes).
+Output written on clanok.pdf (5 pages, 92374 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
  27 words of extra memory for PDF output out of 10000 (max. 10000000)
 
