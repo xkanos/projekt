@@ -563,23 +563,23 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cs/csr6.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cs/csr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
-INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-INPUT ./Diagram 2023-10-19 12-37-46.png
-INPUT ./Diagram 2023-10-19 12-37-46.png
-INPUT Diagram 2023-10-19 12-37-46.png
-INPUT ./Diagram 2023-10-19 12-37-46.png
-INPUT ./Diagram 2023-10-19 12-37-46.png
 INPUT ./Diagram_1.pdf
 INPUT ./Diagram_1.pdf
 INPUT Diagram_1.pdf
 INPUT ./Diagram_1.pdf
 INPUT ./Diagram_1.pdf
-INPUT ./clanok.bbl
-INPUT clanok.bbl
-INPUT ./clanok.bbl
-INPUT clanok.bbl
+INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cs/cssl10.tfm
+INPUT ./Diagram 2023-10-19 12-37-46.png
+INPUT ./Diagram 2023-10-19 12-37-46.png
+INPUT Diagram 2023-10-19 12-37-46.png
+INPUT ./Diagram 2023-10-19 12-37-46.png
+INPUT ./Diagram 2023-10-19 12-37-46.png
+INPUT ./clanok.bbl
+INPUT clanok.bbl
+INPUT ./clanok.bbl
+INPUT clanok.bbl
 INPUT clanok.aux
 INPUT ./clanok.out
 INPUT ./clanok.out

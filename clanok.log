@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  19 OCT 2023 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  19 OCT 2023 13:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -330,42 +330,44 @@ File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 34.
+<Diagram_1.pdf, id=8, 431.6125pt x 230.8625pt>
+File: Diagram_1.pdf Graphic file (type pdf)
+<use Diagram_1.pdf>
+Package pdftex.def Info: Diagram_1.pdf  used on input line 51.
+(pdftex.def)             Requested size: 431.61143pt x 230.86192pt.
 
-Underfull \vbox (badness 1264) has occurred while \output is active []
+Underfull \vbox (badness 4279) has occurred while \output is active []
 
  [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
 local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
 
 
-]
-<Diagram 2023-10-19 12-37-46.png, id=23, 511.9125pt x 90.3375pt>
+] [2 <./Diagram_1.pdf>]
+<Diagram 2023-10-19 12-37-46.png, id=43, 511.9125pt x 90.3375pt>
 File: Diagram 2023-10-19 12-37-46.png Graphic file (type png)
 <use Diagram 2023-10-19 12-37-46.png>
-Package pdftex.def Info: Diagram 2023-10-19 12-37-46.png  used on input line 51
+Package pdftex.def Info: Diagram 2023-10-19 12-37-46.png  used on input line 60
 .
 (pdftex.def)             Requested size: 255.95563pt x 45.16862pt.
 
-Overfull \hbox (34.95563pt too wide) in paragraph at lines 51--53
+Overfull \hbox (34.95563pt too wide) in paragraph at lines 60--62
  [][] 
  []
 
-<Diagram_1.pdf, id=25, 431.6125pt x 230.8625pt>
-File: Diagram_1.pdf Graphic file (type pdf)
-<use Diagram_1.pdf>
-Package pdftex.def Info: Diagram_1.pdf  used on input line 59.
-(pdftex.def)             Requested size: 215.80571pt x 115.43095pt.
 (./clanok.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [2 <./Diagram 2023-10-19 12-37-46.png> <./Diagram_1.pdf>] (./clanok.aux)
+) [3
+
+ <./Diagram 2023-10-19 12-37-46.png>] (./clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: A627771DFCD3938A2D7CA76851C49E86;86.
  ) 
 Here is how much of TeX's memory you used:
- 10281 strings out of 476025
- 168372 string characters out of 5790017
- 1868388 words of memory out of 5000000
+ 10282 strings out of 476025
+ 168378 string characters out of 5790017
+ 1869388 words of memory out of 5000000
  30578 multiletter control sequences out of 15000+600000
  522094 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -379,10 +381,10 @@ c/cs/csr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/cssl10.
 pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/cstt9.pfb></usr/l
 ocal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on clanok.pdf (2 pages, 84060 bytes).
+Output written on clanok.pdf (3 pages, 84908 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  19 words of extra memory for PDF output out of 10000 (max. 10000000)
 
