@@ -1,3 +1,43 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Alvi:E-voting}
+S.~T. Alvi, M.~N. Uddin, L.~Islam, and S.~Ahamed.
+\newblock From conventional voting to blockchain voting: Categorization of
+  different voting mechanisms.
+\newblock In {\em 2020 2nd International Conference on Sustainable Technologies
+  for Industry 4.0 (STI)}, pages 1--6, 2020.
+
+\bibitem{Xiaofen:Blockchain-security}
+X.~Chen, Z.~Wei, X.~Jia, P.~Zheng, M.~Han, and X.~Yang.
+\newblock Current status and prospects of blockchain security standardization.
+\newblock In {\em 2022 IEEE 9th International Conference on Cyber Security and
+  Cloud Computing (CSCloud)/2022 IEEE 8th International Conference on Edge
+  Computing and Scalable Cloud (EdgeCom)}, pages 24--29, 2022.
+
+\bibitem{Jain:Criminal:record}
+A.~Jain, S.~Das, A.~Singh~Kushwah, T.~Rajora, and S.~Saboo.
+\newblock Blockchain-based criminal record database management.
+\newblock In {\em 2021 Asian Conference on Innovation in Technology
+  (ASIANCON)}, pages 1--5, 2021.
+
+\bibitem{Ramar:Healthcare}
+K.~Ramar, G.~P. V, H.~Shanmugasundaram, B.~P. Andraju, and S.~Baskar.
+\newblock Digital healthcare using blockchain.
+\newblock In {\em 2022 1st International Conference on Computational Science
+  and Technology (ICCST)}, pages 651--655, 2022.
+
+\bibitem{Sharma:E-voting}
+A.~Sharma, Chavikant, T.~Singh, T.~Aggarwal, D.~Jain, and P.~Singh.
+\newblock Blockchain based e-voting.
+\newblock In {\em 2022 4th International Conference on Advances in Computing,
+  Communication Control and Networking (ICAC3N)}, pages 2054--2058, 2022.
+
+\bibitem{Suroso:SKCK}
+J.~S. Suroso, C.~M. Akbar~Kusnanto, D.~A. Anggraeni, G.~Wang, and
+  D.~Widiagusti.
+\newblock Utilization of blockchain technology in making police record
+  certificates (skck) using an enterprise architecture approach.
+\newblock In {\em 2022 International Conference on Information Management and
+  Technology (ICIMTech)}, pages 327--332, 2022.
 
 \end{thebibliography}

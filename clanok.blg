@@ -1,48 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: clanok.aux
-The style file: alpha.bst
-I found no \citation commands---while reading file clanok.aux
+The style file: abbrv.bst
 Database file #1: literatura.bib
-You've used 0 entries,
-            2543 wiz_defined-function locations,
-            558 strings with 4441 characters,
-and the built_in function-call counts, 24 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 10
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            536 strings with 5558 characters,
+and the built_in function-call counts, 3103 in all, are:
+= -- 282
+> -- 173
+< -- 6
++ -- 68
+- -- 62
+* -- 214
+:= -- 471
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 49
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 2
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+cite$ -- 6
+duplicate$ -- 130
+empty$ -- 235
+format.name$ -- 62
+if$ -- 692
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 67
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 43
 quote$ -- 0
-skip$ -- 2
+skip$ -- 108
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 166
+swap$ -- 58
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 24
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+while$ -- 24
+width$ -- 7
+write$ -- 68
