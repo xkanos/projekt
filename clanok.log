@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  2 NOV 2023 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  2 NOV 2023 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -369,26 +369,26 @@ LaTeX Warning: Label `histogram' multiply defined.
 )
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count298
@@ -419,7 +419,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 30.
 
 (./clanok.out) (./clanok.out)
 \@outlinefile=\write3
@@ -430,7 +430,7 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-35.
+33.
 
 (/usr/local/texlive/2023/texmf-dist/tex/cslatex/base/il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
@@ -441,61 +441,70 @@ al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 <Blockchain-hash.png, id=61, 736.7525pt x 454.69875pt>
 File: Blockchain-hash.png Graphic file (type png)
 <use Blockchain-hash.png>
-Package pdftex.def Info: Blockchain-hash.png  used on input line 46.
+Package pdftex.def Info: Blockchain-hash.png  used on input line 44.
 (pdftex.def)             Requested size: 127.64832pt x 78.77557pt.
 
-Underfull \hbox (badness 4132) in paragraph at lines 49--50
+Underfull \hbox (badness 4132) in paragraph at lines 47--48
 []\IL2/cmr/m/n/10 Blockchain ac-cord-ing to Jarot Sem-bodo
  []
 
 <Blockchain-evolution.png, id=67, 694.595pt x 317.185pt>
 File: Blockchain-evolution.png Graphic file (type png)
 <use Blockchain-evolution.png>
-Package pdftex.def Info: Blockchain-evolution.png  used on input line 54.
+Package pdftex.def Info: Blockchain-evolution.png  used on input line 52.
 (pdftex.def)             Requested size: 277.83307pt x 126.87173pt.
 [2 <./Blockchain-hash.png> <./Blockchain-evolution.png>]
-<Implemantation of criminal records database.png, id=91, 745.78625pt x 399.4925
-pt>
+
+LaTeX Warning: Reference `voting' on page 3 undefined on input line 79.
+
+<Implemantation of criminal records database.png, id=100, 745.78625pt x 399.492
+5pt>
 File: Implemantation of criminal records database.png Graphic file (type png)
 <use Implemantation of criminal records database.png>
 Package pdftex.def Info: Implemantation of criminal records database.png  used 
-on input line 96.
+on input line 89.
 (pdftex.def)             Requested size: 149.1546pt x 79.89708pt.
- [3 <./Implemantation of criminal records database.png>] [4] [5] (./clanok.bbl)
- [6] (./clanok.aux)
+[3 <./Implemantation of criminal records database.png>] [4] [5] (./clanok.bbl)
+[6] (./clanok.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `clanok.out' has not changed.
-(rerunfilecheck)             Checksum: C30A1D660E202BDAC5C06B9A0ED4D4A9;1866.
+
+Package rerunfilecheck Warning: File `clanok.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `clanok.out':
+(rerunfilecheck)             Before: C30A1D660E202BDAC5C06B9A0ED4D4A9;1866
+(rerunfilecheck)             After:  CB3A514179C0A4938BAD7BA97F247A06;2043.
  ) 
 Here is how much of TeX's memory you used:
- 12419 strings out of 476025
- 206581 string characters out of 5790017
- 1860388 words of memory out of 5000000
- 32657 multiletter control sequences out of 15000+600000
- 526112 words of font info for 67 fonts, out of 8000000 for 9000
+ 12425 strings out of 476025
+ 206596 string characters out of 5790017
+ 1861388 words of memory out of 5000000
+ 32655 multiletter control sequences out of 15000+600000
+ 525550 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,957b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/csbx10.pfb></usr/loca
-l/texlive/2023/texmf-dist/fonts/type1/public/cs/csbx12.pfb></usr/local/texlive/
-2023/texmf-dist/fonts/type1/public/cs/csbx9.pfb></usr/local/texlive/2023/texmf-
-dist/fonts/type1/public/cs/csr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/
-type1/public/cs/csr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
-c/cs/csr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/csr8.p
-fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/csr9.pfb></usr/loc
-al/texlive/2023/texmf-dist/fonts/type1/public/cs/cssl10.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/cs/csti10.pfb></usr/local/texlive/2023/texm
-f-dist/fonts/type1/public/cs/cstt9.pfb></usr/local/texlive/2023/texmf-dist/font
-s/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2023/texmf-dist/fonts/
-type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/ty
-pe1/public/cm-super/sfrm1200.pfb>
-Output written on clanok.pdf (6 pages, 1960240 bytes).
+ 75i,7n,79p,957b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/csbx10.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/cs/csbx12.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/cs/csbx9.pfb></usr/local/texlive/2023/texm
+f-dist/fonts/type1/public/cs/csr10.pfb></usr/local/texlive/2023/texmf-dist/font
+s/type1/public/cs/csr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
+lic/cs/csr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/csr8
+.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cs/csr9.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/cs/cssl10.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/cs/csti10.pfb></usr/local/texlive/2023/te
+xmf-dist/fonts/type1/public/cs/cstt9.pfb></usr/local/texlive/2023/texmf-dist/fo
+nts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2023/texmf-dist/font
+s/type1/public/cm-super/sfrm1200.pfb>
+Output written on clanok.pdf (6 pages, 1936215 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 219 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
